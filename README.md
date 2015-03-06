@@ -1,0 +1,2 @@
+# GOBet
+CSGO Scraper
